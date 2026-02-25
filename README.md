@@ -1,6 +1,4 @@
---- /dev/null
-+++ c/Users/w/Desktop/Projects/ShuleBaseJava/README.md
-@@ -0,0 +1,87 @@
+
 +# ShuleBase - School Management System
 +
 +ShuleBase is a comprehensive desktop application built with Java and JavaFX designed to streamline school administration. It handles various aspects of school management including student fees, academic records, attendance, leave management, and teacher role assignments.
@@ -12,14 +10,7 @@
 +*   **Summary Cards:** Quick view of total paid, pending balances, and payment breakdowns.
 +*   **Reporting:** Generate detailed fee reports in PDF or CSV formats based on grade, stream, and term.
 +
-+### 2. Academic Management (`AcademicDashboard`)
-+*   **Performance Tracking:** View top students and analyze exam performance across different grades.
-+*   **Report Forms:** Automated generation of student report forms for:
-+    *   **Lower Primary:** PP1 - Grade 3
-+    *   **Upper Primary:** Grade 4 - Grade 6
-+    *   **Junior Secondary:** Grade 7 - Grade 9
-+*   **Bulk Generation:** Merge and export all report forms for a specific stream or grade into a single PDF.
-+
+
 +### 3. Attendance Tracking (`AttendanceDashboard`)
 +*   **Daily Monitoring:** Track student presence and absence.
 +*   **Analytics:** Visual breakdown of attendance by gender, grade, and term.
