@@ -1,0 +1,35 @@
+.root {
+    -fx-background-color: #1e1e1e;
+    -fx-text-fill: white;
+}
+
+.label{
+    -fx-text-fill: white;
+}
+
+.button {
+    -fx-background-color: #2d2d2d;
+    -fx-text-fill: white;
+    -fx-background-radius: 5;
+    -fx-border-radius: 5;
+    -fx-border-color: #444;
+}
+
+.button:hover{
+    -fx-background-color: #3a3a3a;
+}
+
+.check-box{
+    -fx-text-fill: white;
+}
+
+.check-box .box{
+    -fx-background-color: #333;
+    -fx-border-color: white;
+}
+
+.check-box:selected .box{
+    -fx-background-color: #2196F3;
+    -fx-border-color: white;
+
+}

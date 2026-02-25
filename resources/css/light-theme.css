@@ -1,0 +1,35 @@
+.root {
+    -fx-background-color: #ffffff;
+    -fx-text-fill: #000000;
+}
+
+.label{
+    -fx-text-fill: #000000;
+}
+
+.button{
+    -fx-background-color: #e0e0e0;
+    -fx-text-fill: #000000;
+    -fx-background-radius: 5;
+    -fx-border-radius: 5;
+    -fx-border-color: #ccc;
+}
+
+.button:hover{
+    -fx-background-color: #d5d5d5;
+}
+
+.check-box{
+    -fx-text-fill: #000000;
+}
+
+.check-box .box {
+    -fx-background-color: #ffffff;
+    -fx-border-color: #000000;
+
+}
+
+.check-box:selected .box{
+    -fx-background-color: #219521;
+    -fx-border-color:#000000;
+}

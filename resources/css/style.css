@@ -1,0 +1,24 @@
+#header {
+    -fx-background-color: #ecf0f1;
+    -fx-padding: 10 20;
+}
+
+#header-title {
+    -fx-font-family: "Arial Black";
+    -fx-font-size: 50px;
+    -fx-text-fill: #2c3e50;
+    -fx-font-weight: bold;
+
+}
+
+.sidebar-button {
+    -fx-background-color: #34495e;
+    -fx-text-fill: white;
+    -fx-padding:  10 15;
+    -fx-font-size: 14px;
+    -fx-background-radius: 5;
+}
+
+.sidebar-button:hover {
+    -fx-background-color: #3c6382;
+}
